@@ -12,7 +12,7 @@ Install dependencies:
 
 ## Usage
 
-RUn the following for an interactive prompt:
+Run the following for an interactive prompt:
 
     $ ruby game.rb
 Valid Prompt commants:

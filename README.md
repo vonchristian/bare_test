@@ -14,7 +14,7 @@ Install dependencies:
 
 Run the following for an interactive prompt:
 
-    $ ruby game.rb
+    $ ruby lib/game.rb
 Valid Prompt commants:
 ```ruby
 ['PLACE', 'MOVE', 'RIGHT', 'LEFT', 'REPORT']

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "../lib/grid"
-
+require_relative "../lib/direction"
 # rubocop:disable Metrics/BlockLength
 RSpec.describe Grid do
   let(:grid) { described_class.new(height: 6, width: 6) }
